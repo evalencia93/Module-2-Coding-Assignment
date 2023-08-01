@@ -1,124 +1,74 @@
-/*basic style*/
-* {
-    box-sizing: border-box;
-}
+* 
+  field-sizing: border-field;
 
-body {
-    background-color: white;
-}
 
-h1 {
-   margin-bottom: 15px;
-text-align: center;
-color:black;
-font-size: 50px;
-}
+Html 
+  historical past-colour: rgb(226, 226, 74);
 
-section {
-    position: relative;
-    padding: 15px;
-    width: 90%;
-}
 
-p {
-    position: relative;
-    clear: right;
-}
-div {
-    position: relative;
-    background-color: gray;
-    border: 3.5px solid black;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: auto;
-}
+Segment 
+  border: 1px white strong;
+  width: 33.33%;
+  glide: left;
+  function: relative;
+  /* margin: 1%; */
 
-.sub1 {
-    float: right;
-    width: 100px;
-    padding: 5px;
-    margin: -3px -3px 0px;
-    border: 3.5px solid black;
-    text-align: center;
-    font-size: 125%;
-    font-weight: bold;
-    background-color: #FFB6C1;
+  padding: 10px;
+  padding-top: 60px;
+  colour: white;
+  historical past-color: rgb(0, 0, 0);
 
-}
+P 
+  textual content-align: middle;
 
-.sub2 {
-    float: right;
-    color: white;
-    width: 100px;
-    padding: 5px;
-    margin: -3px -3px 0px;
-    border: 3.5px solid black;
-    text-align: center;
-    font-size: 125%;
-    font-weight: bold;
-    background-color: #FF0000;
 
-}
+H1 
+  text-align: middle;
+  padding-pinnacle: five%;
+  padding-bottom: 5%;
 
-.sub3 {
-    color: black;
-    float: right;
-    width: 100px;
-    padding: 5px;
-     margin: -3px -3px 0px;
-    border: 3.5px solid black;
-    text-align: center;
-    font-size: 125%;
-    font-weight: bold;
-    background-color: rgb(223, 212, 121);
 
-}
+Phase > span 
+  heritage-color: rgb(109, 109, 109);
 
-.content {
-    padding: 5px;
-    border: none;
-    background-color: gray;
-    font-family: Helvetica;
-    color: black;
-    margin: 3px ;
-    height: 150px;
-    overflow: auto;
-}
 
-.row {
-    width: 90%;
-}
+Span p.Title 
+  font-weight: ambitious;
 
-/*desktop version*/
-@media (min-width: 992px) {
-    .column-lg-4 {
-        float: left;
-        width: 33.33%;
-    }
-}
 
-/*tablet version*/
-@media (min-width: 768px) and (max-width: 991px) {
-    .colmn-md-6 {
-        float: left;
-        width: 50%;
-        margin-left: auto;
-        margin-right: auto;
-    }
+Span 
+  border: 1px stable black;
+  position: absolute;
+  width: 35%;
+  top: 30%;
+  pinnacle: zero;
+  bottom: zero;
+  proper: 0;
 
-    .colmn-md-12 {
-        float: left;
-        width: 100%;
-        margin-left: auto;
-        margin-right: auto;
-    }
-}
 
-/*mobile version*/
-@media (max-width: 767px) {
-    .colmn-sm-12 {
-        float: left;
-        width: 100%;
-    }
-}
+/* Media Queires */
+/* Destop */
+/* 992px */
+
+/* tablet */
+/* 768px and 991px */
+@media (min-width: 768px) and (max-width: 991px) 
+  section.First 
+    width: 50%;
+  
+
+  segment.2nd 
+    width: 50%;
+  
+  section.1/3 
+    width: one hundred%;
+    /* margin-top: 20px; */
+  
+
+
+/* cellular */
+/* max-width 767px */
+@media (max-width: 767px) 
+  section 
+    width: one hundred%;
+  
